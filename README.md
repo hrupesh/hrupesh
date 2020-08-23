@@ -1,5 +1,7 @@
 # Hey, I am [Rupesh Chaudhari][website] 🚀
 
+<div align="center">
+
 [![Follow](https://img.shields.io/github/followers/hrupesh?label=Follow%20Me&style=social)](https://github.com/hrupesh)
 
 [![Website](https://img.shields.io/website?label=Rupesh_Chaudhari&style=for-the-badge&url=https%3A%2F%2Frupesh.cf)](https://rupesh.cf)
@@ -12,13 +14,15 @@
 
 ### Find me on these platforms:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://image.flaticon.com/icons/svg/545/545326.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://image.flaticon.com/icons/svg/1409/1409937.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://image.flaticon.com/icons/svg/725/725337.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://image.flaticon.com/icons/svg/2111/2111463.svg" />][instagram]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://catchar.io/storage/pr_icons/63/pr_icon_5e7122fc6ed50.jpg" />][snapchat-lens]
+[<img align="left" alt="codeSTACKr.com" width="30px" src="https://image.flaticon.com/icons/svg/545/545326.svg" />][website]
+[<img align="left" alt="codeSTACKr | Twitter" width="30px" src="https://image.flaticon.com/icons/svg/1409/1409937.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="30px" src="https://image.flaticon.com/icons/svg/725/725337.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111463.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Instagram" width="30px" src="https://catchar.io/storage/pr_icons/63/pr_icon_5e7122fc6ed50.jpg" />][snapchat-lens]
 
 <br />
+
+</div>
 
 ---
 
