@@ -99,11 +99,11 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img  alt="github" width="50px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img  alt="netlify" width="100px" src="https://www.netlify.com/img/press/logos/logomark.png" />
+<img  alt="netlify" width="50px" src="https://www.netlify.com/img/press/logos/logomark.png" />
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img  alt="heroku" width="100px" src="https://lh3.googleusercontent.com/proxy/SRrh8KoeAUiWybSeXGLRqsXtET04TLBk5tapdhXH4FxfQ_69ljlzmXNcoKYSwLultMMI2aK5bqdwmmP0KGG1Ye_EzZkbZLzDLfCJ6yn6ZX8bMCvT5tI" />
+<img  alt="heroku" width="50px" src="https://lh3.googleusercontent.com/proxy/SRrh8KoeAUiWybSeXGLRqsXtET04TLBk5tapdhXH4FxfQ_69ljlzmXNcoKYSwLultMMI2aK5bqdwmmP0KGG1Ye_EzZkbZLzDLfCJ6yn6ZX8bMCvT5tI" />
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img  alt="AWS" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png" />
+<img  alt="AWS" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png" />
 &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
