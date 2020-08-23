@@ -126,7 +126,7 @@
 
 ---
 
-## Download an awesome andorid app ![here][https://rupesh.cf/projects/tracker.html]
+## Download an awesome Andorid <a href="https://rupesh.cf/projects/tracker.html" target="__new__" > App </a>
 
 [website]: https://rupesh.cf
 [twitter]: https://twitter.com/hrupesh_tweets
