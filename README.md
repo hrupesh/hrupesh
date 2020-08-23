@@ -1,6 +1,6 @@
-# Hey, I am [Rupesh Chaudhari][website] 🚀
-
 <div align="center">
+
+# Hey, I am [Rupesh Chaudhari][website] 🚀
 
 [![Follow](https://img.shields.io/github/followers/hrupesh?label=Follow%20Me&style=social)](https://github.com/hrupesh)
 
