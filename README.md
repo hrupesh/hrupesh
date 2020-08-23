@@ -14,12 +14,11 @@
 
 ### Find me on these platforms
 
-<img  alt="Visual Studio Code" width="50px" src="https://image.flaticon.com/icons/svg/1216/1216733.svg" />
-[<img align="left" alt="codeSTACKr.com" width="30px" src="https://image.flaticon.com/icons/svg/545/545326.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="30px" src="https://image.flaticon.com/icons/svg/1409/1409937.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="30px" src="https://image.flaticon.com/icons/svg/725/725337.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111463.svg" />][instagram]
-[<img align="left" alt="codeSTACKr | Instagram" width="30px" src="https://catchar.io/storage/pr_icons/63/pr_icon_5e7122fc6ed50.jpg" />][snapchat-lens]
+[<img alt="codeSTACKr.com" width="30px" src="https://image.flaticon.com/icons/svg/545/545326.svg" />][website]
+[<img alt="codeSTACKr | Twitter" width="30px" src="https://image.flaticon.com/icons/svg/1409/1409937.svg" />][twitter]
+[<img alt="codeSTACKr | LinkedIn" width="30px" src="https://image.flaticon.com/icons/svg/725/725337.svg" />][linkedin]
+[<img alt="codeSTACKr | Instagram" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111463.svg" />][instagram]
+[<img alt="codeSTACKr | Instagram" width="30px" src="https://catchar.io/storage/pr_icons/63/pr_icon_5e7122fc6ed50.jpg" />][snapchat-lens]
 
 <br />
 
