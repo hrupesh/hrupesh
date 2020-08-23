@@ -89,6 +89,22 @@
 </div>
 
 <br />
+
+<div align="left">
+<img  alt="vs-code" width="100px" src="https://lh3.googleusercontent.com/proxy/MUwHNAKdcRy1aliQ1tdfk4Pm37bkSstXtHMPL9a9b4bi2f5w6qCL80CCO6Rm-5Kg7ovXGEyfV4gM9ZJWjRPn6SjRnZIIj6Dn3nU1Vry5i_5dtG5e8UjU" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img  alt="git" width="100px" src="https://lh3.googleusercontent.com/proxy/VIsENmyGhNlPDjjYcwie-7KBP7NF4aCoTO0nDuTK5i4mLaNByjApwSyBZA1gxB0GPKwktcJdNdoCC4pJHPxejsjVYiWX62IiHR3JWk4s_Cj8qOb22Bg" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img  alt="gitbash" width="50px" src="https://lh3.googleusercontent.com/proxy/YpDC8xujfTbq6bp1TYsjgqsDOGi6kdUlaR7_i023On7Gai52dP_vqHserui2aZ5aAsPMFUG6qeE-_kgzvdnedq2sE6R4PeXEFjZZMtis7YRDNNAIhDk" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img  alt="postgresql" width="50px" src="https://lh3.googleusercontent.com/proxy/CvjZf2hb-AlJFbU_4q76yUO7TxB5Eo29j4jul-dPn0Td1KDmgEso5f0uPE22a7UVJlJy0erpWZ-q4VCg6vrHl7C8b_Mdq4uvut9mDxsUVpBAg5q4z8c" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img  alt="Mongo DB" width="100px" src="https://www.bloorresearch.com/wp-content/uploads/2013/03/MONGO-DB-logo-300x470--x.png" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+
+<br />
+
 <br />
 
 ---
