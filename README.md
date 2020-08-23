@@ -1,6 +1,6 @@
 ### Hey, I am [Rupesh Chaudhari][website] 🚀
 
-[![Website](https://img.shields.io/website?label=Rupesh Chaudhari&style=for-the-badge&url=https%3A%2F%2Frupesh.cf)](https://rupesh.cf/)
+[![Website](https://img.shields.io/website?label=Rupesh Chaudhari&style=for-the-badge&url=https%3A%2F%2Frupesh.cf)](https://rupesh.cf)
 [![Twitter Follow](https://img.shields.io/twitter/follow/hrupesh_tweets?color=512DF8&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%hrupesh&screen_name=hrupesh_tweets)
 
 ## I'm a Husband, Father, Developer, and Teacher!
