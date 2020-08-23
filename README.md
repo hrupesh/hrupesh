@@ -1,4 +1,4 @@
-<img width="100%" height="300" src="https://media.giphy.com/media/3oKIPzVXlzxhAWamNW/giphy.gif">
+<!-- <img width="100%" height="300" src="https://media.giphy.com/media/3oKIPzVXlzxhAWamNW/giphy.gif"> -->
 <div align="center">
 
 # <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="25px" > Hey, I am [Rupesh Chaudhari 🚀][website]
