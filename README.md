@@ -91,15 +91,19 @@
 <br />
 
 <div align="left">
-<img  alt="vs-code" width="100px" src="https://code.visualstudio.com/assets/updates/1_35/logo-stable.png" />
+<img  alt="vs-code" width="50px" src="https://code.visualstudio.com/assets/updates/1_35/logo-stable.png" />
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img  alt="git" width="100px" src="https://lh3.googleusercontent.com/proxy/VIsENmyGhNlPDjjYcwie-7KBP7NF4aCoTO0nDuTK5i4mLaNByjApwSyBZA1gxB0GPKwktcJdNdoCC4pJHPxejsjVYiWX62IiHR3JWk4s_Cj8qOb22Bg" />
+<img  alt="git" width="50px" src="https://git-scm.com/images/logos/logomark-orange@2x.png" />
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img  alt="gitbash" width="50px" src="https://lh3.googleusercontent.com/proxy/YpDC8xujfTbq6bp1TYsjgqsDOGi6kdUlaR7_i023On7Gai52dP_vqHserui2aZ5aAsPMFUG6qeE-_kgzvdnedq2sE6R4PeXEFjZZMtis7YRDNNAIhDk" />
+<img  alt="gitbash" width="50px" src="https://miro.medium.com/max/325/0*tTvqxZBtyiDw3vVw.png" />
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img  alt="postgresql" width="50px" src="https://lh3.googleusercontent.com/proxy/CvjZf2hb-AlJFbU_4q76yUO7TxB5Eo29j4jul-dPn0Td1KDmgEso5f0uPE22a7UVJlJy0erpWZ-q4VCg6vrHl7C8b_Mdq4uvut9mDxsUVpBAg5q4z8c" />
+<img  alt="github" width="50px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img  alt="Mongo DB" width="100px" src="https://www.bloorresearch.com/wp-content/uploads/2013/03/MONGO-DB-logo-300x470--x.png" />
+<img  alt="netlify" width="100px" src="https://www.netlify.com/img/press/logos/logomark.png" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img  alt="heroku" width="100px" src="https://lh3.googleusercontent.com/proxy/SRrh8KoeAUiWybSeXGLRqsXtET04TLBk5tapdhXH4FxfQ_69ljlzmXNcoKYSwLultMMI2aK5bqdwmmP0KGG1Ye_EzZkbZLzDLfCJ6yn6ZX8bMCvT5tI" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img  alt="AWS" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png" />
 &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
