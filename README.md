@@ -1,6 +1,6 @@
+<img src="https://media.giphy.com/media/3oKIPzVXlzxhAWamNW/giphy.gif">
 <div align="center">
 
-<img src="https://media.giphy.com/media/3oKIPzVXlzxhAWamNW/giphy.gif">
 
 # Hey, I am [Rupesh Chaudhari][website] 🚀
 
