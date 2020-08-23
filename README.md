@@ -71,11 +71,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img  alt="Laravel" width="50px" src="https://cdn.freebiesupply.com/logos/large/2x/laravel-1-logo-png-transparent.png" />
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img  alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img  alt="Flask" width="50px" src="https://www.pngkey.com/png/detail/98-985032_flask-logo-flask-python-icon.png" />
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img  alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img  alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img  alt="codeigniter" width="50px" src="https://lh3.googleusercontent.com/proxy/AB-BNi29j6CIWcoLBDGVBxmjnNOIqPrZt2Z2R17OphNgi0GU1TCHgMuT4WW-Vjskv0011htZDA75L5aSDjR8-uMS2J9BkdaxkL6Jy19VOEmk0PbFxlI" />
 &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
