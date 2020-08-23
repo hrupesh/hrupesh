@@ -61,7 +61,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img  alt="Node.js" width="50px" src="https://image.flaticon.com/icons/svg/919/919825.svg" />
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img  alt="Mongo DB" width="50px" src="https://www.bloorresearch.com/wp-content/uploads/2013/03/MONGO-DB-logo-300x470--x.png" />
+<img  alt="Mongo DB" width="100px" src="https://www.bloorresearch.com/wp-content/uploads/2013/03/MONGO-DB-logo-300x470--x.png" />
 &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 <br />
