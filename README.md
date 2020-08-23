@@ -32,7 +32,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img  alt="JavaScript" width="50px" src="https://image.flaticon.com/icons/svg/541/541509.svg" />
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img  alt="Bootstrap" width="50px" src="https://toppng.com/uploads/preview/bootstrap-featured-image-bootstrap-3-logo-11563293130teouf93qpu.png" />
+<img  alt="Bootstrap" width="50px" src="https://image.flaticon.com/icons/svg/1348/1348052.svg" />
 &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 <br />
