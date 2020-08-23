@@ -5,7 +5,7 @@
 
 ### What I Listen To 🎶🎶
 
-[<img src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-download-logo-30.png" alt="Rupesh's Spotify Playing" width="200" />](https://open.spotify.com/user/yy0h8xi8qhn6ecimsd9kcwdoh)
+[<img src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-download-logo-30.png" alt="Rupesh's Spotify Playing" width="50" />](https://open.spotify.com/user/yy0h8xi8qhn6ecimsd9kcwdoh)
 
 ### Connect with me:
 
