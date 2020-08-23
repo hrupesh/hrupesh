@@ -26,14 +26,13 @@
 <div align="left" >
 <img  alt="Visual Studio Code" width="50px" src="https://image.flaticon.com/icons/svg/1216/1216733.svg" />
 &nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;
 <img  alt="CSS3" width="50px" src="https://image.flaticon.com/icons/svg/888/888847.svg" />
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img  alt="Sass" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img  alt="Sass" width="50px" src="https://image.flaticon.com/icons/svg/919/919831.svg" />
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img  alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img  alt="JavaScript" width="50px" src="https://image.flaticon.com/icons/svg/541/541509.svg" />
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img  alt="Terminal" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img  alt="Bootstrap" width="50px" src="https://toppng.com/uploads/preview/bootstrap-featured-image-bootstrap-3-logo-11563293130teouf93qpu.png" />
 &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 <br />
