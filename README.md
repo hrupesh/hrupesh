@@ -123,7 +123,7 @@
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" alt="Rupesh's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrupesh&layout=compact&theme=shades-of-purple" />
+  <img align="center" alt="Rupesh's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrupesh&theme=shades-of-purple" />
 </a>
 
 [website]: https://rupesh.cf
