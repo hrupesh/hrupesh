@@ -34,21 +34,21 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img  alt="Bootstrap" width="50px" src="https://image.flaticon.com/icons/svg/1348/1348052.svg" />
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img  alt="JQuery" width="50px" src="https://e7.pngegg.com/pngimages/662/163/png-clipart-jquery-logo-web-development-jquery-ui-javascript-computer-icons-jqlogo-emblem-label.png" />
+<img  alt="JQuery" width="50px" src="https://cdn4.iconfinder.com/data/icons/scripting-and-programming-languages/512/JQuery_logo-512.png" />
 &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 <br />
 
 <div align="center">
-<img  alt="React" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img  alt="React" width="50px" src="https://image.flaticon.com/icons/svg/919/919851.svg" />
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img  alt="Gatsby" width="50px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
+<img  alt="React Native" width="50px" src="https://www.appcoda.com/wp-content/uploads/2015/04/react-native.png" />
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img  alt="GraphQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
+<img  alt="Angular" width="50px" src="https://angular.io/assets/images/logos/angular/logo-nav@2x.png" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img  alt="Vue" width="50px" src="https://img.icons8.com/color/48/000000/vue-js.png" />
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img  alt="Node.js" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img  alt="Deno" width="50px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
 &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 <br />
