@@ -116,12 +116,9 @@
 
 ---
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hrupesh&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Rupesh's github stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+  
   <img align="center" alt="Rupesh's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrupesh&layout=compact&theme=shades-of-purple" />
-</a>
 
 [website]: https://rupesh.cf
 [twitter]: https://twitter.com/hrupesh_tweets
