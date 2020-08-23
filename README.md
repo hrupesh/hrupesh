@@ -1,19 +1,11 @@
 ### Hey, I am [Rupesh Chaudhari][website] 🚀
 
-[![Website](https://img.shields.io/website?label=Rupesh_Chaudhari&style=for-the-badge&url=https%3A%2F%2Frupesh.cf)](https://rupesh.cf) 
+[![Website](https://img.shields.io/website?label=Rupesh_Chaudhari&style=for-the-badge&url=https%3A%2F%2Frupesh.cf)](https://rupesh.cf)
 [![Twitter Follow](https://img.shields.io/twitter/follow/hrupesh_tweets?color=512DF8&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=hrupesh_tweets)
-
-## I'm a Husband, Father, Developer, and Teacher!
-
-- 🔭 I’m currently working on a [VS Code Course][website]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://www.google.com/imgres?imgurl=http%3A%2F%2Fwww.scdn.co%2Fi%2F_global%2Fopen-graph-default.png&imgrefurl=https%3A%2F%2Fwww.spotify.com%2F&tbnid=EJxAr9DvxZhERM&vet=12ahUKEwi5qdOWrbHrAhWXPysKHeCwDoYQMygBegUIARDPAQ..i&docid=FXA9zuKxmShSJM&w=1200&h=630&q=spotify&ved=2ahUKEwi5qdOWrbHrAhWXPysKHeCwDoYQMygBegUIARDPAQ" alt="Rupesh's Spotify Playing" width="350" />](https://open.spotify.com/user/yy0h8xi8qhn6ecimsd9kcwdoh)
 
 ### Connect with me:
 
