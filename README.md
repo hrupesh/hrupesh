@@ -91,7 +91,7 @@
 <br />
 
 <div align="left">
-<img  alt="vs-code" width="100px" src="https://lh3.googleusercontent.com/proxy/MUwHNAKdcRy1aliQ1tdfk4Pm37bkSstXtHMPL9a9b4bi2f5w6qCL80CCO6Rm-5Kg7ovXGEyfV4gM9ZJWjRPn6SjRnZIIj6Dn3nU1Vry5i_5dtG5e8UjU" />
+<img  alt="vs-code" width="100px" src="https://code.visualstudio.com/assets/updates/1_35/logo-stable.png" />
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img  alt="git" width="100px" src="https://lh3.googleusercontent.com/proxy/VIsENmyGhNlPDjjYcwie-7KBP7NF4aCoTO0nDuTK5i4mLaNByjApwSyBZA1gxB0GPKwktcJdNdoCC4pJHPxejsjVYiWX62IiHR3JWk4s_Cj8qOb22Bg" />
 &nbsp;&nbsp;&nbsp;&nbsp;
