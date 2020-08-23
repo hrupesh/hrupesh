@@ -115,10 +115,13 @@
 <br />
 
 ---
+<div>
 
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=hrupesh&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Rupesh's github stats" />
 
   <img align="right" alt="Rupesh's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrupesh&layout=compact&theme=shades-of-purple" />
+
+</div>
 
 [website]: https://rupesh.cf
 [twitter]: https://twitter.com/hrupesh_tweets
