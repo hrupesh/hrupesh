@@ -15,9 +15,13 @@
 ### Find me on these platforms
 
 [<img alt="codeSTACKr.com" width="30px" src="https://image.flaticon.com/icons/svg/545/545326.svg" />][website]
+&nbsp;&nbsp;&nbsp;&nbsp;
 [<img alt="codeSTACKr | Twitter" width="30px" src="https://image.flaticon.com/icons/svg/1409/1409937.svg" />][twitter]
+&nbsp;&nbsp;&nbsp;&nbsp;
 [<img alt="codeSTACKr | LinkedIn" width="30px" src="https://image.flaticon.com/icons/svg/725/725337.svg" />][linkedin]
+&nbsp;&nbsp;&nbsp;&nbsp;
 [<img alt="codeSTACKr | Instagram" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111463.svg" />][instagram]
+&nbsp;&nbsp;&nbsp;&nbsp;
 [<img alt="codeSTACKr | Instagram" width="30px" src="https://catchar.io/storage/pr_icons/63/pr_icon_5e7122fc6ed50.jpg" />][snapchat-lens]
 
 <br />
