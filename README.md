@@ -112,6 +112,10 @@
 
 <br />
 
+---
+
+## Download an awesome Andorid <a href="https://rupesh.cf/projects/tracker.html" target="__new__" > App </a>
+
 <br />
 
 ---
@@ -125,8 +129,6 @@
 </a>
 
 ---
-
-## Download an awesome Andorid <a href="https://rupesh.cf/projects/tracker.html" target="__new__" > App </a>
 
 [website]: https://rupesh.cf
 [twitter]: https://twitter.com/hrupesh_tweets
