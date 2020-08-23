@@ -9,18 +9,31 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/hrupesh_tweets?color=512DF8&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=hrupesh_tweets)
 </div>
 
+<div>
+
+<div align="left">
+
 ### See What I Listen To 🎶
 
 [<img src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-download-logo-30.png" alt="Rupesh's Spotify Playing" width="75" />](https://open.spotify.com/user/yy0h8xi8qhn6ecimsd9kcwdoh)
 
+</div>
+
+<div align="right">
+
 ### Find me on these platforms:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://image.flaticon.com/icons/svg/545/545326.svg" />][website]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://image.flaticon.com/icons/svg/1409/1409937.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://image.flaticon.com/icons/svg/725/725337.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://image.flaticon.com/icons/svg/2111/2111463.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://catchar.io/storage/pr_icons/63/pr_icon_5e7122fc6ed50.jpg" />][snapchat-lens]
+
+</div>
 
 <br />
+
+</div>
 
 ---
 
@@ -89,3 +102,4 @@
 [twitter]: https://twitter.com/hrupesh_tweets
 [instagram]: https://instagram.com/petronum_
 [linkedin]: https://linkedin.com/in/hrupesh
+[snapchat-lens]: https://linkedin.com/in/hrupesh
