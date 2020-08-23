@@ -34,7 +34,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img  alt="Bootstrap" width="50px" src="https://image.flaticon.com/icons/svg/1348/1348052.svg" />
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img  alt="JQuery" width="50px" src="https://w7.pngwing.com/pngs/90/191/png-transparent-logo-jquery-responsive-web-design-javascript-jquery-logo-text-logo-responsive-web-design.png" />
+<img  alt="JQuery" width="50px" src="https://e7.pngegg.com/pngimages/662/163/png-clipart-jquery-logo-web-development-jquery-ui-javascript-computer-icons-jqlogo-emblem-label.png" />
 &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 <br />
