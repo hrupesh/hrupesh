@@ -26,9 +26,8 @@
 <div align="left" >
 <img  alt="Visual Studio Code" width="50px" src="https://image.flaticon.com/icons/svg/1216/1216733.svg" />
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img  alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img  alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img  alt="CSS3" width="50px" src="https://image.flaticon.com/icons/svg/888/888847.svg" />
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img  alt="Sass" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 &nbsp;&nbsp;&nbsp;&nbsp;
