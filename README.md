@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=Rupesh_Chaudhari&style=for-the-badge&url=https%3A%2F%2Frupesh.cf)](https://rupesh.cf)
 [![Twitter Follow](https://img.shields.io/twitter/follow/hrupesh_tweets?color=512DF8&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=hrupesh_tweets)
 
-### What I Listen To 🎶🎶
+### See What I Listen To 🎶
 
 [<img src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-download-logo-30.png" alt="Rupesh's Spotify Playing" width="50" />](https://open.spotify.com/user/yy0h8xi8qhn6ecimsd9kcwdoh)
 
