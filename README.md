@@ -2,6 +2,8 @@
 
 # Hey, I am [Rupesh Chaudhari][website] 🚀
 
+![Visitors](https://profile-counter.glitch.me/{hrupesh}/count.svg)
+
 [![Follow](https://img.shields.io/github/followers/hrupesh?label=Follow%20Me&style=social)](https://github.com/hrupesh)
 
 [![Website](https://img.shields.io/website?label=Rupesh_Chaudhari&style=for-the-badge&url=https%3A%2F%2Frupesh.cf)](https://rupesh.cf)
@@ -112,8 +114,6 @@
 <br />
 
 ---
-
-![Visitors](https://profile-counter.glitch.me/{hrupesh}/count.svg)
 
 ---
 
