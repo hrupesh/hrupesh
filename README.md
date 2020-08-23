@@ -12,8 +12,9 @@
 
 [<img src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-download-logo-30.png" alt="Rupesh's Spotify Playing" width="75" />](https://open.spotify.com/user/yy0h8xi8qhn6ecimsd9kcwdoh)
 
-### Find me on these platforms:
+### Find me on these platforms
 
+<img  alt="Visual Studio Code" width="50px" src="https://image.flaticon.com/icons/svg/1216/1216733.svg" />
 [<img align="left" alt="codeSTACKr.com" width="30px" src="https://image.flaticon.com/icons/svg/545/545326.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="30px" src="https://image.flaticon.com/icons/svg/1409/1409937.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="30px" src="https://image.flaticon.com/icons/svg/725/725337.svg" />][linkedin]
