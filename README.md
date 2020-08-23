@@ -1,8 +1,6 @@
 <div align="center">
 
-
 # Hey, I am [Rupesh Chaudhari][website] 🚀
-
 
 [![Follow](https://img.shields.io/github/followers/hrupesh?label=Follow%20Me&style=social)](https://github.com/hrupesh)
 
@@ -61,8 +59,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img  alt="Node.js" width="50px" src="https://image.flaticon.com/icons/svg/919/919825.svg" />
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img  alt="Mongo DB" width="100px" src="https://www.bloorresearch.com/wp-content/uploads/2013/03/MONGO-DB-logo-300x470--x.png" />
-&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 <br />
 
@@ -78,6 +74,19 @@
 </div>
 
 <br />
+
+<div align="center">
+<img  alt="Mysql" width="50px" src="https://lh3.googleusercontent.com/proxy/MUwHNAKdcRy1aliQ1tdfk4Pm37bkSstXtHMPL9a9b4bi2f5w6qCL80CCO6Rm-5Kg7ovXGEyfV4gM9ZJWjRPn6SjRnZIIj6Dn3nU1Vry5i_5dtG5e8UjU" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img  alt="Sqlite" width="50px" src="https://lh3.googleusercontent.com/proxy/VIsENmyGhNlPDjjYcwie-7KBP7NF4aCoTO0nDuTK5i4mLaNByjApwSyBZA1gxB0GPKwktcJdNdoCC4pJHPxejsjVYiWX62IiHR3JWk4s_Cj8qOb22Bg" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img  alt="redis" width="50px" src="https://lh3.googleusercontent.com/proxy/YpDC8xujfTbq6bp1TYsjgqsDOGi6kdUlaR7_i023On7Gai52dP_vqHserui2aZ5aAsPMFUG6qeE-_kgzvdnedq2sE6R4PeXEFjZZMtis7YRDNNAIhDk" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img  alt="postgresql" width="50px" src="https://lh3.googleusercontent.com/proxy/CvjZf2hb-AlJFbU_4q76yUO7TxB5Eo29j4jul-dPn0Td1KDmgEso5f0uPE22a7UVJlJy0erpWZ-q4VCg6vrHl7C8b_Mdq4uvut9mDxsUVpBAg5q4z8c" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img  alt="Mongo DB" width="100px" src="https://www.bloorresearch.com/wp-content/uploads/2013/03/MONGO-DB-logo-300x470--x.png" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
 
 <br />
 <br />
