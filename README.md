@@ -44,7 +44,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img  alt="React Native" width="100px" src="https://www.appcoda.com/wp-content/uploads/2015/04/react-native.png" />
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img  alt="Angular" width="250px" src="https://angular.io/assets/images/logos/angular/angular.png" />
+<img  alt="Angular" width="50px" src="https://angular.io/assets/images/logos/angular/angular.png" />
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img  alt="Vue" width="50px" src="https://img.icons8.com/color/48/000000/vue-js.png" />
 &nbsp;&nbsp;&nbsp;&nbsp;
