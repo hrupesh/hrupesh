@@ -85,7 +85,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img  alt="redis" width="50px" src="https://lh3.googleusercontent.com/proxy/YpDC8xujfTbq6bp1TYsjgqsDOGi6kdUlaR7_i023On7Gai52dP_vqHserui2aZ5aAsPMFUG6qeE-_kgzvdnedq2sE6R4PeXEFjZZMtis7YRDNNAIhDk" />
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img  alt="postgresql" width="50px" src="https://lh3.googleusercontent.com/proxy/CvjZf2hb-AlJFbU_4q76yUO7TxB5Eo29j4jul-dPn0Td1KDmgEso5f0uPE22a7UVJlJy0erpWZ-q4VCg6vrHl7C8b_Mdq4uvut9mDxsUVpBAg5q4z8c" />
+<img  alt="postgresql" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img  alt="Mongo DB" width="100px" src="https://www.bloorresearch.com/wp-content/uploads/2013/03/MONGO-DB-logo-300x470--x.png" />
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -104,7 +104,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img  alt="netlify" width="50px" src="https://www.netlify.com/img/press/logos/logomark.png" />
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img  alt="heroku" width="100px" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png" />
+<img  alt="heroku" width="50px" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png" />
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img  alt="AWS" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png" />
 &nbsp;&nbsp;&nbsp;&nbsp;
