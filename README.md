@@ -104,7 +104,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img  alt="netlify" width="50px" src="https://www.netlify.com/img/press/logos/logomark.png" />
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img  alt="heroku" width="100px" src="https://www.nicepng.com/png/detail/223-2233246_heroku-logo-salesforce-heroku.png" />
+<img  alt="heroku" width="100px" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png" />
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img  alt="AWS" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png" />
 &nbsp;&nbsp;&nbsp;&nbsp;
