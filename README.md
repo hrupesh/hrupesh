@@ -81,7 +81,7 @@
 <div align="center">
 <img  alt="Mysql" width="100px" src="https://lh3.googleusercontent.com/proxy/MUwHNAKdcRy1aliQ1tdfk4Pm37bkSstXtHMPL9a9b4bi2f5w6qCL80CCO6Rm-5Kg7ovXGEyfV4gM9ZJWjRPn6SjRnZIIj6Dn3nU1Vry5i_5dtG5e8UjU" />
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img  alt="Sqlite" width="100px" src="https://lh3.googleusercontent.com/proxy/VIsENmyGhNlPDjjYcwie-7KBP7NF4aCoTO0nDuTK5i4mLaNByjApwSyBZA1gxB0GPKwktcJdNdoCC4pJHPxejsjVYiWX62IiHR3JWk4s_Cj8qOb22Bg" />
+<img  alt="Sqlite" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png" />
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img  alt="redis" width="50px" src="https://www.nditech.org/sites/default/files/styles/small_photo/public/redis-logo.png" />
 &nbsp;&nbsp;&nbsp;&nbsp;
