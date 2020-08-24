@@ -72,7 +72,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img  alt="Flask" width="50px" src="https://www.pngkey.com/png/detail/98-985032_flask-logo-flask-python-icon.png" />
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img  alt="codeigniter" width="50px" src="https://lh3.googleusercontent.com/proxy/AB-BNi29j6CIWcoLBDGVBxmjnNOIqPrZt2Z2R17OphNgi0GU1TCHgMuT4WW-Vjskv0011htZDA75L5aSDjR8-uMS2J9BkdaxkL6Jy19VOEmk0PbFxlI" />
+<img  alt="codeigniter" width="50px" src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" />
 &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
