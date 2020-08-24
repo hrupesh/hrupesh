@@ -79,7 +79,7 @@
 <br />
 
 <div align="center">
-<img  alt="Mysql" width="100px" src="https://lh3.googleusercontent.com/proxy/MUwHNAKdcRy1aliQ1tdfk4Pm37bkSstXtHMPL9a9b4bi2f5w6qCL80CCO6Rm-5Kg7ovXGEyfV4gM9ZJWjRPn6SjRnZIIj6Dn3nU1Vry5i_5dtG5e8UjU" />
+<img  alt="Mysql" width="100px" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" />
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img  alt="Sqlite" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png" />
 &nbsp;&nbsp;&nbsp;&nbsp;
