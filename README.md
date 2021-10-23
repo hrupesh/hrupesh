@@ -114,10 +114,6 @@
 
 ---
 
-### Download an awesome Andorid <a href="https://rupesh.cf/projects/tracker.html" target="__new__" > App </a>
-
----
-
 <a href="https://rupesh.cf/projects/tracker.html">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hrupesh&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Rupesh's github stats" />
   </a><a href="https://rupesh.cf/projects/tracker.html">
