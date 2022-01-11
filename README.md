@@ -17,15 +17,15 @@
 
 ### Find me on these platforms
 
-[<img alt="codeSTACKr.com" width="30px" src="https://image.flaticon.com/icons/svg/545/545326.svg" />][website]
+[<img alt="Website" width="30px" src="https://image.flaticon.com/icons/svg/545/545326.svg" />][website]
 &nbsp;&nbsp;&nbsp;&nbsp;
-[<img alt="codeSTACKr | Twitter" width="30px" src="https://image.flaticon.com/icons/svg/1409/1409937.svg" />][twitter]
+[<img alt="Twitter" width="30px" src="https://image.flaticon.com/icons/svg/1409/1409937.svg" />][twitter]
 &nbsp;&nbsp;&nbsp;&nbsp;
-[<img alt="codeSTACKr | LinkedIn" width="30px" src="https://image.flaticon.com/icons/svg/725/725337.svg" />][linkedin]
+[<img alt="LinkedIn" width="30px" src="https://image.flaticon.com/icons/svg/725/725337.svg" />][linkedin]
 &nbsp;&nbsp;&nbsp;&nbsp;
-[<img alt="codeSTACKr | Instagram" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111463.svg" />][instagram]
+[<img alt="Instagram" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111463.svg" />][instagram]
 &nbsp;&nbsp;&nbsp;&nbsp;
-[<img alt="codeSTACKr | Instagram" width="30px" src="https://catchar.io/storage/pr_icons/63/pr_icon_5e7122fc6ed50.jpg" />][snapchat-lens]
+[<img alt="Snapchat" width="30px" src="https://catchar.io/storage/pr_icons/63/pr_icon_5e7122fc6ed50.jpg" />][snapchat-lens]
 
 <br />
 
@@ -112,7 +112,7 @@
 
 <br />
 
----
+---------------
 
 <a href="https://rupesh.cf/projects/tracker.html">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hrupesh&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Rupesh's github stats" />
@@ -120,7 +120,7 @@
 <img align="center" alt="Rupesh's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrupesh&layout=compact&theme=shades-of-purple" />
 </a>
 
----
+-----------------
 
 [website]: https://rupesh.cf
 [twitter]: https://twitter.com/hrupesh_tweets
