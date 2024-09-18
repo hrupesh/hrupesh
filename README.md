@@ -5,8 +5,6 @@
 
 ![Visitors](https://profile-counter.glitch.me/{hrupesh}/count.svg)
 
-[![Follow](https://img.shields.io/github/followers/hrupesh?label=Follow%20Me&style=social)](https://github.com/hrupesh)
-
 ----------------
 
 <a href="https://rupesh.cf/projects/tracker.html">
